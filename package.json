@@ -1,7 +1,7 @@
 {
   "name": "readme-banner",
   "private": true,
-  "homepage": "https://gitbanner.js.org",
+  "homepage": "https://git-hub-banner.vercel.app",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
